@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Annica</h1>
 <h3 align="center">A passionate web developer student</h3>
 
-- 🔭 I’m currently working on **React learning project**
-
-- 🌱 I’m currently learning **Linux**
+- 🔭 I’m currently working on ** Vue.js and Laravel project**
 
 - 💬 Ask me about **Vue.js, Laravel, Node.js, SQL**
 
